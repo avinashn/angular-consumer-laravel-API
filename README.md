@@ -1,3 +1,5 @@
+The tutorial of the project can be found at https://justlaravel.com/angular-consumer-laravel-api-passport/ and a working demo at https://demos.justlaravel.com/angular-consumer-laravel-api-passport/
+
 # AngularConsumer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
